@@ -49,11 +49,3 @@
       number of awards, number of views etc.
     - it makes sorting a list of pairs easy (compared to a *Map*)
   - class *Utils* with static methods
-
-### Feedback
-
-- The homework was rather difficult
-- The statement could contain more details (for example: the second sorting
-  criteria for queries, the formula for calculating the rating of a show with
-  part of seasons not rated)
-- Overall, it made me learn the fundamentals of OOP :)
